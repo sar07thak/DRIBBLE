@@ -856,6 +856,10 @@ video {
   transition-duration: 200ms;
 }
 
+.duration-100 {
+  transition-duration: 100ms;
+}
+
 .hover\:opacity-100:hover {
   opacity: 1;
 }
